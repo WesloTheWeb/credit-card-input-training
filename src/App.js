@@ -1,6 +1,6 @@
 import { React, useState } from "react";
 // import CreditCardInput from "./CreditCardInput";
-import "./styles.css";
+import "./App.css";
 
 /** APPROACH:
 (Focus on functionality)
